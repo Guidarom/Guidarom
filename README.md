@@ -1,5 +1,5 @@
 <h1>What's up, buddy?</h1>
-<a target="_blank" rel="noopener noreferrer nofollow" href="./img/back-andromeda.PNG"><img src="./img/back-andromeda.PNG" data-canonical-src="https://i.imgur.com/weNbhGZ.png" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="./img/back-readme.PNG"><img src="./img/back-readme.PNG"  style="max-width: 100%;"></a>
 
 <p>Welcome to my page! <br></br> I'm Guido Daniel, junior front-end developer, currently living in <!-- <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> --> <b>Barcelona, Spain</b> </p>
 <h3>Things I code with</h3>
